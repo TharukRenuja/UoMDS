@@ -1,0 +1,7 @@
+tkinter
+langchain
+dotenv
+pydantic
+chromadb
+PyPDF2
+google-generativeai
